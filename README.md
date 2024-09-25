@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Patrick Lirio</h1>
 <h3 align="center">An aspiring Software Engineer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-illustration-cartoon-programmer-working-behind-computer-coder-to-sit-armchair-table-image77862319&psig=AOvVaw0D-IzZXLB4ZFTgodiOu29K&ust=1727324444705000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCI25Of3YgDFQAAAAAdAAAAABAE"/>
+<h3 align="center">Currently Junior Developer</h3>
+<img align="right" alt="Coding" height="200" width="200" src="https://r2.erweima.ai/imgcompressed/img/compressed_1ece74076a54359f75f5f6d1ccd8dfca.webp"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patricklirio&label=Profile%20views&color=0e75b6&style=flat" alt="patricklirio" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Patrick-1doc&label=Profile%20views&color=0e75b6&style=flat" alt="patricklirio" /> </p>
 
-- 🌱 I’m currently learning **React Native, .Net**
+- 🌱 I’m currently learning **Laravel, PHP, Livewire**
 
 - 📫 How to reach me **pbenedict.lirio@gmail.com**
 
