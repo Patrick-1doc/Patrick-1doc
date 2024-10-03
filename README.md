@@ -21,15 +21,15 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Patrick-1doc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Patrick-Lirio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-1doc&theme=vue-dark&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-Lirio&theme=vue-dark&hide_border=false" /></p>
 <!-- https://github-readme-stats.vercel.app/api?username=Patrick-1doc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true
 https://github-readme-streak-stats.herokuapp.com/?user=Patrick-1doc&theme=vue-dark&hide_border=false
 https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-1doc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-1doc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Lirio&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
